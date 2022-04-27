@@ -34,8 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-FIXMEEEEEEEE
+This project matches students to advisors, using an in-house program based on the Gale-Shapley algorithm. Unlike the Gale-Shapley algorithm, this program does not require equal number of students to advisors, nor does it assume complete cardinal preferences. In other words, it still works in real life!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -134,8 +133,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Solina Kim - kkim24@nd.edu OR matchmakernd@gmail.com
-Santiago Rodriguez - srodri25@nd.edu
+* Solina Kim - kkim24@nd.edu OR matchmakernd@gmail.com
+* Santiago Rodriguez - srodri25@nd.edu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
