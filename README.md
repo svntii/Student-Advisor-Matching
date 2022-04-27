@@ -119,6 +119,7 @@ Don't forget to give the project a star! Thanks again!
 * Solina Kim - kkim24@nd.edu OR matchmakernd@gmail.com
 * Santiago Rodriguez - srodri25@nd.edu
 * Eva Gorzkiewicz - egorzkie@nd.edu
+* For more information, check out our explanatory article: https://drive.google.com/file/d/1hwt5iwzl1ggJ73AR3BNSYRO4I89AYo0H/view?usp=sharing
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
