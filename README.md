@@ -16,6 +16,9 @@
 
 This program matches students to advisors, using an in-house program based on the Gale-Shapley algorithm. Unlike the Gale-Shapley algorithm, this program does not require equal number of students to advisors, nor does it assume complete cardinal preferences. In other words, it can be used in real life!
 
+For those interested in the Gale-Shapley algorithm, their paper can be found here.
+https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
